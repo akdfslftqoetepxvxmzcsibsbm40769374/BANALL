@@ -36,15 +36,15 @@ async def start_command(client, message: Message):
   reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(text="⦿ ɪ'ᴍ ʀᴇᴀᴅʏ ғᴏʀ ғᴜᴄᴋɪɴɢ ⦿", url="https://t.me/PROFESSORxBANALL_BOT")
+                    InlineKeyboardButton(text="⦿ ɪ'ᴍ ʀᴇᴀᴅʏ ғᴏʀ ғᴜᴄᴋɪɴɢ ⦿", url="https://t.me/Grp_banall_probot?startgroup=True&admin=ban_users")
                 ],
                 [
-                    InlineKeyboardButton("⦿ sᴜᴘᴘᴏʀᴛ ⦿", url="https://t.me/Friends_Chatting_Masti_Group"),
+                    InlineKeyboardButton("⦿ sᴜᴘᴘᴏʀᴛ ⦿", url="https://t.me/PROFESSORxNETWORK"),
                     InlineKeyboardButton("⦿ ᴜᴘᴅᴀᴛᴇ ⦿", url="https://t.me/PROFESSOR_NETWORK")
                 ],
                 [
                     InlineKeyboardButton("⦿ ʀᴇᴘᴏ ⦿", url="https://t.me/PrivateBotRepo"),
-                    InlineKeyboardButton("⦿ ᴘʀᴏғᴇssᴏʀ ⦿", url="https://t.me/II_PROFESSOR_SOURABH_II")
+                    InlineKeyboardButton("⦿ ᴘʀᴏғᴇssᴏʀ ⦿", url="https://t.me/SOURABH_100RABH")
             ],       
            ]
       )
